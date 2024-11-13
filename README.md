@@ -10,7 +10,7 @@
 - [Challenges Faced](#challenges-faced)
 - [Conclusion](#conclusion)
 - [References](#references)
-- [Full Step-By-Step]()
+- [Full Step-By-Step](https://github.com/LucasCodes8/Forensic-Analysis-of-Unauthorized-Access-on-Windows-VM/blob/main/Forensic%20Analysis%20of%20Unauthorized%20Access%20on%20Windows%20VM.pdf)
 
 ---
 
@@ -81,4 +81,8 @@ This project showed how registry artifacts can shed light on unauthorized access
 ---
 
 ## References
-- **RegistryExplorer Documentation**: [Eric Zimmerman’s Tools](https://www.ericzimmerman.com/tools/)
+- TryHackMe. “THM-4n6 Lab Environment.” URL: https://tryhackme.com/
+- Zimmerman, Eric. “EZtools for Registry and Forensic Analysis.” URL: https://ericzimmerman.github.io/
+- Microsoft Documentation. “Windows Registry Reference.” URL: https://docs.microsoft.com/en-us/windows/win32/sysinfo/registry
+- Forensics Wiki. “Windows Registry Forensics.” URL: https://forensicswiki.org/wiki/Windows_Registry
+
